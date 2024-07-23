@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Puspita Paul</h1>
-<h3 align="center">A Third-Year Engineering Student, Passionate About Web Development</h3>
+<h3 align="center">Final-Year Engineering Student, Passionate About Web Development</h3>
 
 - 🔭 I’m currently working on **Codershouse**
 
